@@ -1,0 +1,1 @@
+the pathes will in this folder after closing the opencv window
